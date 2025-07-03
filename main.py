@@ -1,2 +1,2 @@
 print("Komalpreet")
-print("Gurpreet")
+print("Gurpre")
